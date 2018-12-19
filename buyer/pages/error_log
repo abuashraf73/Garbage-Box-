@@ -1,0 +1,7 @@
+[10-Aug-2018 01:02:33 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/parijatdatta/public_html/gb/buyer/pages/server.php on line 10
+[10-Aug-2018 01:02:47 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/parijatdatta/public_html/gb/buyer/pages/server.php on line 10
+[10-Aug-2018 01:02:47 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/parijatdatta/public_html/gb/buyer/pages/server.php on line 62
+[10-Aug-2018 01:02:47 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/parijatdatta/public_html/gb/buyer/pages/server.php on line 63
+[10-Aug-2018 01:03:11 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/parijatdatta/public_html/gb/buyer/pages/server.php on line 10
+[10-Aug-2018 01:03:11 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/parijatdatta/public_html/gb/buyer/pages/server.php on line 62
+[10-Aug-2018 01:03:11 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/parijatdatta/public_html/gb/buyer/pages/server.php on line 63

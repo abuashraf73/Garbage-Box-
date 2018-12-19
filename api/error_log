@@ -1,0 +1,290 @@
+[09-Aug-2018 22:30:08 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 22:30:08 Etc/GMT] PHP Notice:  Undefined index: password in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 22:32:17 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 22:32:19 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 22:34:52 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 22:35:10 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 22:45:59 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'parijatd_gb.tbl_login' doesn't exist' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[09-Aug-2018 22:46:11 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'parijatd_gb.tbl_login' doesn't exist' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[09-Aug-2018 23:10:04 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:10:04 Etc/GMT] PHP Notice:  Undefined index: password in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:10:35 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:10:35 Etc/GMT] PHP Notice:  Undefined index: password in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:18:09 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:19:25 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:22:46 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:23:30 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:25:22 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:25:26 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:25:28 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:25:30 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:25:32 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:27:54 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:27:57 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:28:52 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:29:09 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:29:29 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:29:40 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:32:36 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:51:31 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '('123456')' at line 1' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[09-Aug-2018 23:51:37 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '('123456')' at line 1' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[09-Aug-2018 23:55:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '$rowcount' (T_VARIABLE) in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[09-Aug-2018 23:56:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '$rowcount' (T_VARIABLE) in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[09-Aug-2018 23:56:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '$rowcount' (T_VARIABLE) in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[09-Aug-2018 23:57:25 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '('123456').' at line 1' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[09-Aug-2018 23:57:32 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '('123456').' at line 1' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[09-Aug-2018 23:58:44 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:58:44 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[09-Aug-2018 23:58:55 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:58:55 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[09-Aug-2018 23:58:58 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[09-Aug-2018 23:58:58 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[09-Aug-2018 23:59:03 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '('123456').' at line 1' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[09-Aug-2018 23:59:12 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[10-Aug-2018 00:01:08 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[10-Aug-2018 00:01:28 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[10-Aug-2018 00:01:44 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[10-Aug-2018 00:02:03 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[10-Aug-2018 00:02:20 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[10-Aug-2018 00:04:42 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:04:42 Etc/GMT] PHP Notice:  Undefined index: password in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:04:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[10-Aug-2018 00:05:05 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[10-Aug-2018 00:05:18 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[10-Aug-2018 00:05:57 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[10-Aug-2018 00:06:01 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[10-Aug-2018 00:06:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/parijatdatta/public_html/gb/api/login.php on line 9
+[10-Aug-2018 00:07:46 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/parijatdatta/public_html/gb/api/login.php on line 19
+[10-Aug-2018 00:08:32 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:08:32 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/parijatdatta/public_html/gb/api/login.php on line 19
+[10-Aug-2018 00:08:40 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:08:40 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/parijatdatta/public_html/gb/api/login.php on line 19
+[10-Aug-2018 00:09:00 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:09:00 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/parijatdatta/public_html/gb/api/login.php on line 19
+[10-Aug-2018 00:09:45 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:09:45 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/parijatdatta/public_html/gb/api/login.php on line 19
+[10-Aug-2018 00:09:53 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/parijatdatta/public_html/gb/api/login.php on line 19
+[10-Aug-2018 00:11:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/parijatdatta/public_html/gb/api/login.inc.php on line 17
+[10-Aug-2018 00:11:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/parijatdatta/public_html/gb/api/login.inc.php on line 17
+[10-Aug-2018 00:13:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/parijatdatta/public_html/gb/api/login.inc.php on line 17
+[10-Aug-2018 00:14:19 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, object given in /home/parijatdatta/public_html/gb/api/login.php on line 19
+[10-Aug-2018 00:15:57 Etc/GMT] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/parijatdatta/public_html/gb/api/login.inc.php on line 14
+[10-Aug-2018 00:16:25 Etc/GMT] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/parijatdatta/public_html/gb/api/login.inc.php on line 14
+[10-Aug-2018 00:17:23 Etc/GMT] PHP Parse error:  syntax error, unexpected ''.md5($_POST['' (T_CONSTANT_ENCAPSED_STRING), expecting '(' in /home/parijatdatta/public_html/gb/api/login.inc.php on line 6
+[10-Aug-2018 00:18:23 Etc/GMT] PHP Parse error:  syntax error, unexpected ''.md5($_POST['' (T_CONSTANT_ENCAPSED_STRING), expecting '(' in /home/parijatdatta/public_html/gb/api/login.inc.php on line 6
+[10-Aug-2018 00:22:46 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:25:35 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:27:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/parijatdatta/public_html/gb/api/login.php on line 17
+[10-Aug-2018 00:28:11 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:28:49 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:29:08 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:30:29 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:31:11 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:32:52 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:33:00 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:34:14 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:36:37 Etc/GMT] PHP Notice:  Undefined index: email in /home/parijatdatta/public_html/gb/api/login.php on line 4
+[10-Aug-2018 00:42:54 Etc/GMT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'parijatd_gb.tbl_login' doesn't exist' in /home/parijatdatta/public_html/gb/api/login.inc.php:18
+Stack trace:
+#0 /home/parijatdatta/public_html/gb/api/login.inc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/parijatdatta/public_html/gb/api/login.inc.php on line 18
+[11-Aug-2018 17:05:25 Etc/GMT] PHP Notice:  Undefined variable: username in /home/parijatdatta/public_html/gb/api/buyer_signup_api.php on line 24
+[11-Aug-2018 17:05:25 Etc/GMT] PHP Notice:  Undefined variable: email in /home/parijatdatta/public_html/gb/api/buyer_signup_api.php on line 24
+[11-Aug-2018 17:05:25 Etc/GMT] PHP Notice:  Undefined variable: password in /home/parijatdatta/public_html/gb/api/buyer_signup_api.php on line 24
+[12-Aug-2018 20:49:14 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:49:14 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:49:14 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:49:14 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:49:14 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:50:14 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:50:14 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:50:14 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:50:14 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:50:14 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:51:40 Etc/GMT] PHP Notice:  Undefined variable: username in /home/parijatdatta/public_html/gb/api/buyer_signup_api.php on line 24
+[12-Aug-2018 20:51:40 Etc/GMT] PHP Notice:  Undefined variable: email in /home/parijatdatta/public_html/gb/api/buyer_signup_api.php on line 24
+[12-Aug-2018 20:51:40 Etc/GMT] PHP Notice:  Undefined variable: password in /home/parijatdatta/public_html/gb/api/buyer_signup_api.php on line 24
+[12-Aug-2018 20:52:10 Etc/GMT] PHP Notice:  Undefined variable: username in /home/parijatdatta/public_html/gb/api/buyer_signup_api.php on line 24
+[12-Aug-2018 20:53:00 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:53:00 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:53:00 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:53:00 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:53:00 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/buy_request.php on line 33
+[12-Aug-2018 20:56:12 Etc/GMT] PHP Notice:  Undefined variable: username in /home/parijatdatta/public_html/gb/api/buyer_signup_api.php on line 24
+[12-Aug-2018 20:56:12 Etc/GMT] PHP Notice:  Undefined variable: email in /home/parijatdatta/public_html/gb/api/buyer_signup_api.php on line 24
+[12-Aug-2018 20:56:12 Etc/GMT] PHP Notice:  Undefined variable: password in /home/parijatdatta/public_html/gb/api/buyer_signup_api.php on line 24
+[12-Aug-2018 20:56:18 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 24
+[12-Aug-2018 20:56:18 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 24
+[12-Aug-2018 20:56:18 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 24
+[12-Aug-2018 20:57:11 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 28
+[12-Aug-2018 20:57:11 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 28
+[12-Aug-2018 20:57:11 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 28
+[12-Aug-2018 20:57:11 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 28
+[12-Aug-2018 20:57:20 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 28
+[12-Aug-2018 20:57:20 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 28
+[12-Aug-2018 20:57:20 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 28
+[12-Aug-2018 20:57:20 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 28
+[13-Aug-2018 04:46:16 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 04:46:16 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 04:46:16 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 04:46:16 Etc/GMT] PHP Notice:  Undefined variable: price in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 04:46:16 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:12:39 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:12:39 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:13:52 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:13:52 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:13:52 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:13:52 Etc/GMT] PHP Notice:  Undefined variable: price in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:13:52 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:04 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:04 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:04 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:04 Etc/GMT] PHP Notice:  Undefined variable: price in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:04 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:14 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:14 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:14 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:14 Etc/GMT] PHP Notice:  Undefined variable: price in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:14 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:50 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:50 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:50 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:50 Etc/GMT] PHP Notice:  Undefined variable: price in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:14:50 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:09 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:09 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:09 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:09 Etc/GMT] PHP Notice:  Undefined variable: price in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:09 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:09 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:19 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:19 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:19 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:19 Etc/GMT] PHP Notice:  Undefined variable: price in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:19 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:19 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:22 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:16:22 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:19:53 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:19:53 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:21:23 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:21:23 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:26:08 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:26:08 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:29:20 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 05:29:20 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/buy_request.php on line 32
+[13-Aug-2018 08:52:29 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/bkash.php on line 7
+[13-Aug-2018 11:20:20 Etc/GMT] PHP Notice:  Undefined variable: username in /home/parijatdatta/public_html/gb/api/seller_signup_api.php on line 24
+[13-Aug-2018 11:20:20 Etc/GMT] PHP Notice:  Undefined variable: email in /home/parijatdatta/public_html/gb/api/seller_signup_api.php on line 24
+[13-Aug-2018 11:20:20 Etc/GMT] PHP Notice:  Undefined variable: password in /home/parijatdatta/public_html/gb/api/seller_signup_api.php on line 24
+[13-Aug-2018 11:20:32 Etc/GMT] PHP Notice:  Undefined variable: username in /home/parijatdatta/public_html/gb/api/seller_signup_api.php on line 24
+[13-Aug-2018 11:35:46 Etc/GMT] PHP Notice:  Undefined variable: buyer_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 36
+[13-Aug-2018 11:35:46 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/buy_request.php on line 36
+[13-Aug-2018 11:35:46 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/buy_request.php on line 36
+[13-Aug-2018 11:35:46 Etc/GMT] PHP Notice:  Undefined variable: price in /home/parijatdatta/public_html/gb/api/buy_request.php on line 36
+[13-Aug-2018 11:35:46 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/buy_request.php on line 36
+[13-Aug-2018 11:35:46 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/buy_request.php on line 36
+[13-Aug-2018 11:45:42 Etc/GMT] PHP Notice:  Undefined variable: seller_id in /home/parijatdatta/public_html/gb/api/sell_request.php on line 36
+[13-Aug-2018 11:45:42 Etc/GMT] PHP Notice:  Undefined variable: product_id in /home/parijatdatta/public_html/gb/api/sell_request.php on line 36
+[13-Aug-2018 11:45:42 Etc/GMT] PHP Notice:  Undefined variable: quantity in /home/parijatdatta/public_html/gb/api/sell_request.php on line 36
+[13-Aug-2018 11:45:42 Etc/GMT] PHP Notice:  Undefined variable: price in /home/parijatdatta/public_html/gb/api/sell_request.php on line 36
+[13-Aug-2018 11:45:42 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/parijatdatta/public_html/gb/api/sell_request.php on line 36
+[13-Aug-2018 11:45:42 Etc/GMT] PHP Notice:  Undefined variable: address in /home/parijatdatta/public_html/gb/api/sell_request.php on line 36
+[13-Aug-2018 11:46:42 Etc/GMT] PHP Notice:  Undefined variable: seller_id in /home/parijatdatta/public_html/gb/api/sell_request.php on line 36
+[13-Aug-2018 12:04:57 Etc/GMT] PHP Notice:  Undefined index: quantityNo in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:04:57 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:05:25 Etc/GMT] PHP Notice:  Undefined index: quantityNo in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:05:25 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:05:52 Etc/GMT] PHP Notice:  Undefined index: quantity in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:05:52 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:06:48 Etc/GMT] PHP Notice:  Undefined index: quantity in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:06:48 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:07:19 Etc/GMT] PHP Notice:  Undefined index: quantity in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:07:19 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:07:23 Etc/GMT] PHP Notice:  Undefined index: quantity in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:07:23 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:08:07 Etc/GMT] PHP Notice:  Undefined index: quantity in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:08:07 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:08:19 Etc/GMT] PHP Notice:  Undefined index: quantity in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:08:19 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:10:22 Etc/GMT] PHP Notice:  Undefined index: quantity in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:10:22 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:10:26 Etc/GMT] PHP Notice:  Undefined index: quantity in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:10:26 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:11:09 Etc/GMT] PHP Notice:  Undefined index: quantity in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:11:09 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/quantity.php on line 7
+[13-Aug-2018 12:22:49 Etc/GMT] PHP Notice:  Undefined index: status in /home/parijatdatta/public_html/gb/api/seller_status_change.php on line 7
+[13-Aug-2018 12:22:49 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/seller_status_change.php on line 7
+[13-Aug-2018 12:23:04 Etc/GMT] PHP Notice:  Undefined index: status in /home/parijatdatta/public_html/gb/api/seller_status_change.php on line 7
+[13-Aug-2018 12:23:04 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/seller_status_change.php on line 7
+[13-Aug-2018 12:23:22 Etc/GMT] PHP Notice:  Undefined index: status in /home/parijatdatta/public_html/gb/api/seller_status_change.php on line 7
+[13-Aug-2018 12:23:22 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/seller_status_change.php on line 7
+[13-Aug-2018 12:35:30 Etc/GMT] PHP Notice:  Undefined index: sl_no in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:38:13 Etc/GMT] PHP Notice:  Undefined index: status in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:38:13 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:40:05 Etc/GMT] PHP Notice:  Undefined index: status in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:40:05 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:43:06 Etc/GMT] PHP Notice:  Undefined index: status in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:43:06 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:43:47 Etc/GMT] PHP Notice:  Undefined index: status in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:43:47 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:43:58 Etc/GMT] PHP Notice:  Undefined index: status in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:43:58 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:44:11 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:44:26 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:47:05 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:53:28 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
+[13-Aug-2018 12:55:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/parijatdatta/public_html/gb/api/buyer_status_change.php on line 7
